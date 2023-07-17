@@ -7,5 +7,3 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* Ironman
-* Wonder Woman
