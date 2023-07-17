@@ -6,3 +6,4 @@
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
 7. Misión nueva desde remoto
+8. Misión nueva desde local
