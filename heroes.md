@@ -8,3 +8,4 @@
 * Robin
 * Volcán Negro
 * Ironman
+* Wonder Woman
